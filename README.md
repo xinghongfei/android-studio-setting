@@ -1,6 +1,6 @@
 # android-studio-setting
 
-<img src="screenshot.png" width="25%" />
+<img src="screenshot.png" />
 
 
 设置方法：
